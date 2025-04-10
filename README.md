@@ -9,7 +9,7 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
 *   🌍  I'm based in Almaty, Kazakhstan
 *   🖥️  See my portfolio at [My Portfolio](https://github.com/NikitaGnezdilov/WikipediaClone)
 *   ✉️  You can contact me at [gnezdilovnikitakonstantinovich@mail.ru](mailto:gnezdilovnikitakonstantinovich@mail.ru)
-*   🚀  I'm currently working on [WikipediaClone](https://github.com/NikitaGnezdilov/WikipediaClone)
+*   🚀  I'm currently working on wikipedia-clone-neon.vercel.app
 *   🧠  I'm learning TypeScript, Advanced React Concepts, UI/UX Design Principles, Performance Optimization
 *   🤝  I'm open to collaborating on Frontend Development Projects, UI/UX Design, Learning and Growth
 *   ⚡  Always Learning, Passionate About Clean Code, Open to Feedback, Personal Projects, Interested in Tech Communities
