@@ -69,8 +69,8 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
   <a href="https://github.com/NikitaGnezdilov/SUwebsite">
     <img width="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=SUwebsite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
-  <a href="https://github.com/NikitaGnezdilov/FirstReactProject">
+<p>  <a href="https://github.com/NikitaGnezdilov/FirstReactProject">
     <img width="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=FirstReactProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
+  </a></p>
 </div>
 
