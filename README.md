@@ -14,7 +14,7 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
 [SmartKaz](https://smart-kaz-92ie-fpykl557n-nikitagnezdilovs-projects.vercel.app/)
 [SUwebsite](s-uwebsite-7k276j5vv-nikitagnezdilovs-projects.vercel.app)
 *   🧠  I'm learning TypeScript, Advanced React Concepts, UI/UX Design Principles, Performance Optimization
-*   *   🎓 Currently studying **Information Security** at **Satbayev University**, Almaty
+*   🎓 Currently studying **Information Security** at **Satbayev University**, Almaty
 *   🤝  I'm open to collaborating on Frontend Development Projects, UI/UX Design, Learning and Growth
 *   ⚡  Always Learning, Passionate About Clean Code, Open to Feedback, Personal Projects, Interested in Tech Communities
 
