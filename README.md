@@ -15,6 +15,7 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
 [SUwebsite](s-uwebsite-7k276j5vv-nikitagnezdilovs-projects.vercel.app)
 [FirstReactProject](first-react-project-gghncrgzj-nikitagnezdilovs-projects.vercel.app)
 [GraziaTA](grazia-931yllpkc-nikitagnezdilovs-projects.vercel.app)
+[PortfolioProject](portfolio-project-m8oir2sdg-nikitagnezdilovs-projects.vercel.app)
 *   🧠  I'm learning TypeScript, Advanced React Concepts, UI/UX Design Principles, Performance Optimization
 *   🎓 Currently studying **Information Security** at **Satbayev University**, Almaty
 *   🤝  I'm open to collaborating on Frontend Development Projects, UI/UX Design, Learning and Growth
@@ -79,6 +80,9 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
   </a>
   <a href="https://github.com/NikitaGnezdilov/GraziaTA">
     <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=GraziaTA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  </a>
+  <a href="https://github.com/NikitaGnezdilov/GGMORE">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=GGMORE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
 
