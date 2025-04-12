@@ -11,7 +11,8 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
 *   ✉️  You can contact me at [gnezdilovnikitakonsztantinovich@mail.ru](mailto:gnezdilovnikitakonstantinovich@mail.ru)
 *   🚀  This is my portfolio of projects I've worked on — some of them are already deployed and available online. You can explore the live versions below, and scroll down to check out the source code.
 [WikiClone](https://wikipedia-clone-neon.vercel.app/#)
-[SmartKaz](https://smart-kaz-92ie-fpykl557n-nikitagnezdilovs-projects.vercel.app/)    
+[SmartKaz](https://smart-kaz-92ie-fpykl557n-nikitagnezdilovs-projects.vercel.app/)
+[SUwebsite](s-uwebsite-7k276j5vv-nikitagnezdilovs-projects.vercel.app)
 *   🧠  I'm learning TypeScript, Advanced React Concepts, UI/UX Design Principles, Performance Optimization
 *   🤝  I'm open to collaborating on Frontend Development Projects, UI/UX Design, Learning and Growth
 *   ⚡  Always Learning, Passionate About Clean Code, Open to Feedback, Personal Projects, Interested in Tech Communities
