@@ -61,16 +61,16 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
 
 <div align="center">
   <a href="https://github.com/NikitaGnezdilov/WikipediaClone">
-    <img width="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=WikipediaClone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=WikipediaClone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <a href="https://github.com/NikitaGnezdilov/SmartKaz">
-    <img width="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=SmartKaz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=SmartKaz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <a href="https://github.com/NikitaGnezdilov/SUwebsite">
-    <img width="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=SUwebsite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=SUwebsite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 <p>  <a href="https://github.com/NikitaGnezdilov/FirstReactProject">
-    <img width="23%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=FirstReactProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=FirstReactProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a></p>
 </div>
 
