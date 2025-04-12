@@ -81,8 +81,8 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
   <a href="https://github.com/NikitaGnezdilov/GraziaTA">
     <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=GraziaTA&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
-  <a href="https://github.com/NikitaGnezdilov/GGMORE">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=GGMORE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <a href="https://github.com/NikitaGnezdilov/PortfolioProject">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikitaGnezdilov&repo=PortfolioProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
 
