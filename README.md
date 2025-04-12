@@ -12,7 +12,7 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
 *   🚀  This is my portfolio of projects I've worked on — some of them are already deployed and available online. You can explore the live versions below, and scroll down to check out the source code.
 [WikiClone](https://wikipedia-clone-neon.vercel.app/#)
 [SmartKaz](https://smart-kaz-92ie-fpykl557n-nikitagnezdilovs-projects.vercel.app/)
-[SUwebsite](s-uwebsite-7k276j5vv-nikitagnezdilovs-projects.vercel.app)
+[SUwebsite](https://s-uwebsite.vercel.app/)
 [FirstReactProject](first-react-project-gghncrgzj-nikitagnezdilovs-projects.vercel.app)
 [GraziaTA](grazia-931yllpkc-nikitagnezdilovs-projects.vercel.app)
 [PortfolioProject](portfolio-project-m8oir2sdg-nikitagnezdilovs-projects.vercel.app)
