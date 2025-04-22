@@ -51,7 +51,7 @@ Hello! I'm a self-taught **frontend developer**, passionate about building real-
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
 </p>
-<p><a href="https://scanned.page/p/67e6a1781d0b2" target="_blank" rel="noreferrer">MORE SOCIALS</a></p>
+
 
 ### Badges
 
